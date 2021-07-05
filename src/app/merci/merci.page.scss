@@ -1,0 +1,27 @@
+.image{
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.message{
+    margin-top: 5vh;
+    text-align: center;
+    h1{
+        font-size: 2rem;
+    }
+    p{
+        color: #838383;
+    }
+}
+
+.goButton{
+    text-align: center;
+    margin-top:50px;
+
+    ion-button{
+        width: 80%;
+        height: 50px;
+        text-transform: none;
+        font-size: 1.6rem;
+    }
+}
